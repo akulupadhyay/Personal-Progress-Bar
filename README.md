@@ -78,6 +78,7 @@ Personal-Progress-Bar/
 ├── HTB/
 │
 └── Resources/
+```
 
 📅 Daily Progress Log
 
