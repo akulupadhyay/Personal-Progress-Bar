@@ -39,11 +39,11 @@ This repository serves as my personal learning tracker and cybersecurity progres
 
 | Category | Progress |
 | :--- | :--- |
-| **🏆 League** | Silver League |
-| **📊 Ranking** | Top 15% |
-| **🧩 Rooms Completed** | 46 |
-| **🔥 Current Streak** | 8 Days |
-| **🎖️ Badges Earned** | 8 |
+| **🏆 League** | Platinum League |
+| **📊 Ranking** | Top 6% | 1,26,269 |
+| **🧩 Rooms Completed** | 76 |
+| **🔥 Current Streak** | 37 Days |
+| **🎖️ Badges Earned** | 14 |
 
 ### 🎯 Current Focus
 *   Linux Fundamentals
